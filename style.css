@@ -1,0 +1,28 @@
+#h
+{
+    color: red;
+    font-size: 25px;
+    text-align: center;
+    
+}
+.para
+{
+    color:tomato;
+    text-align: justify;
+    
+
+}
+a
+{
+ text-decoration: none;
+}
+.word
+{
+    font-weight: bold;
+    text-decoration: underline;
+}
+img
+{
+    height: 200px;
+    width: 500px;
+}
